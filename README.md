@@ -1,1 +1,1 @@
-# AI-Midterm-Project-
+# AI Midterm Project
