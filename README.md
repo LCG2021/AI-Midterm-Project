@@ -1,4 +1,4 @@
-# AI Midterm Project
+# Housing Project
 
 In this project, you will build a regression model and a classification model from scratch. Please follow the instructions closely, and only use Python's Numpy, Pandas, and matplotlib library to complete this project. Using functions from sklearn is not allowed.
 
